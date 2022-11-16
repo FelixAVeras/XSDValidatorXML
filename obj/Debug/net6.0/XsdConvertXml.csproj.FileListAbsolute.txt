@@ -1,0 +1,15 @@
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\bin\Debug\net6.0\XsdConvertXml.exe
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\bin\Debug\net6.0\XsdConvertXml.deps.json
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\bin\Debug\net6.0\XsdConvertXml.runtimeconfig.json
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\bin\Debug\net6.0\XsdConvertXml.dll
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\bin\Debug\net6.0\XsdConvertXml.pdb
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.csproj.AssemblyReference.cache
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.AssemblyInfoInputs.cache
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.AssemblyInfo.cs
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.csproj.CoreCompileInputs.cache
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.dll
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\refint\XsdConvertXml.dll
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.pdb
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\XsdConvertXml.genruntimeconfig.cache
+C:\Users\Felix.Carvajal\Documents\Visual Studio 2022\FacturacionElectronica\XsdConvertXml\obj\Debug\net6.0\ref\XsdConvertXml.dll
